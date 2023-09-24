@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html{
+    background-color: rgb(108, 91, 216);
+
+}
+body{
+    
+    width: 400px;
+    height: 500px;
+    background-color: rgb(108, 91, 216);
+    margin: auto;
+    font-family: 'Righteous', cursive;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.384), 0 0 50px rgba(0, 0, 0, 0.219) inset;
+    border-radius: 1%     1%     1%     1% /     1%     1%     1%     1%;
+    border-radius: 3rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+label, input, button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    
+}
+label{
+    margin-top: 0.5rem;
+    font-family: 'Poppins',cursive;
+    display: block;
+    color: white;
+    
+}
+input{
+    border-radius: 1rem;
+    height: 30px;
+    width: 250px;
+    border-color: white;
+    border-style: double;
+}
+h2{
+    margin-top: 3rem;
+    text-align: center;
+    color: rgba(51, 45, 94, 0);
+}
+h1{
+    
+    margin-bottom: 1rem;
+    display: block;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: white;
+    
+  
+}
+span{
+    color: rgb(255, 136, 0);
+}
+button{
+    text-align: center;
+    margin-top: 1rem;
+    height: 30px;
+    width: 250px;
+    border-radius: 1rem;
+    font-family: 'Righteous', cursive;
+    color: white;
+    background-color: rgb(255, 136, 0);
+    border-color: rgb(255, 136, 0);
+    border-style: double;
+    font-size: large;
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: smaller;
+}
+a{
+    color: rgb(255, 136, 0);
+}
+.error{
+    color: rgb(255, 255, 255);
+    background-color: rgb(180, 29, 29);
+    height: 30px;
+    width: 400px;
+    padding: 0.5px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
