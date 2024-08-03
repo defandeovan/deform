@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.21 109.7">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-BoldItalic, Montserrat;
+        font-size: 29.04px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #00395e;
+      }
+
+      .cls-1, .cls-4 {
+        font-style: italic;
+      }
+
+      .cls-1, .cls-5 {
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Montserrat-SemiBoldItalic, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        font-size: 78.24px;
+      }
+
+      .cls-6 {
+        letter-spacing: .52em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #1a4c4e;
+        font-family: Montserrat-ExtraBoldItalic, Montserrat;
+      }
+
+      .cls-7 {
+        letter-spacing: .56em;
+      }
+
+      .cls-8 {
+        letter-spacing: .54em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(60.18 101.98)"><tspan class="cls-7" x="0" y="0">TR</tspan><tspan class="cls-6" x="71.7" y="0">A</tspan><tspan class="cls-8" x="109.05" y="0">V</tspan><tspan class="cls-7" x="146.49" y="0">EL BALI</tspan></text>
+  <text class="cls-4" transform="translate(1.17 66.51)"><tspan class="cls-5" x="0" y="0">SETIA</tspan><tspan class="cls-3" x="240.91" y="0">T</tspan><tspan class="cls-2" x="287.23" y="0">OUR</tspan></text>
+</svg>
